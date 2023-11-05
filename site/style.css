@@ -1,0 +1,24 @@
+*{
+	background-color: darkblue;
+}
+.h1 {
+	display: flex;
+	justify-content: center;
+
+}
+.h2{
+		display: flex;
+	justify-content: center;
+
+}
+.h3{
+		display: flex;
+	justify-content: center;
+}
+li{
+	color: white ;
+	background-color: black;
+}
+.ul{
+	background-color: black;
+}
